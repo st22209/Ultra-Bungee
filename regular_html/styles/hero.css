@@ -1,0 +1,30 @@
+.hero {
+	width: 100%;
+	margin-bottom: 2rem;
+}
+.hero-image {
+	width: 100%;
+}
+.hero-title {
+	font-size: 40px;
+}
+.hero-links {
+	font-size: 17px;
+	list-style-type: none;
+}
+.hero-link {
+	padding-left: 1rem;
+	padding-right: 1rem;
+	display: inline;
+}
+.hero-link a {
+	color: #003b63;
+	font-size: 19px;
+	text-decoration: underline;
+}
+.hero-content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
