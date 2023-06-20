@@ -1,0 +1,24 @@
+.navbar {
+	padding-top: 0.25rem;
+	padding-bottom: 0.25rem;
+	width: 100%;
+	background: #4eabf8;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 0.5rem;
+}
+.navbar-image {
+	padding-left: 2rem;
+	width: 15rem;
+}
+.navbar-links {
+	font-size: 17px;
+	text-transform: uppercase;
+	padding-right: 2rem;
+	list-style-type: none;
+}
+.nav-link {
+	display: inline;
+}
