@@ -7,18 +7,22 @@
 	flex-wrap: wrap;
 	justify-content: space-between;
 	align-items: center;
-	margin-bottom: 0.5rem;
 }
 .navbar-image {
-	padding-left: 2rem;
-	width: 15rem;
+	margin-left: 2rem;
+	width: 12rem;
 }
 .navbar-links {
 	font-size: 17px;
 	text-transform: uppercase;
-	padding-right: 2rem;
+	margin-right: 2rem;
 	list-style-type: none;
 }
 .nav-link {
 	display: inline;
+	padding: .5rem;
+}
+.nav-link a {
+	text-decoration: none;
+	color: white;
 }
