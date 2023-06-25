@@ -1,7 +1,2 @@
+@import url("global.css");
 @import url("hero.css");
-
-body {
-	padding: 0;
-	margin: 0;
-	font-family: Arial;
-}
