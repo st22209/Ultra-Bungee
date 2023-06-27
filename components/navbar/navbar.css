@@ -1,28 +1,28 @@
 .navbar {
-	padding-top: 0.25rem;
-	padding-bottom: 0.25rem;
-	width: 100%;
-	background: #4eabf8;
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-between;
-	align-items: center;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  width: 100%;
+  background: #4eabf8;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
 }
 .navbar-image {
-	margin-left: 2rem;
-	width: 12rem;
+  margin-left: 2rem;
+  width: 12rem;
 }
 .navbar-links {
-	font-size: 17px;
-	text-transform: uppercase;
-	margin-right: 2rem;
-	list-style-type: none;
+  font-size: 17px;
+  text-transform: uppercase;
+  margin-right: 2rem;
+  list-style-type: none;
 }
 .nav-link {
-	display: inline;
-	padding: .5rem;
+  display: inline;
+  padding: 0.5rem;
 }
 .nav-link a {
-	text-decoration: none;
-	color: white;
+  text-decoration: none;
+  color: white;
 }
