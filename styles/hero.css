@@ -6,8 +6,17 @@
   background-size: cover;
   height: 48rem;
 }
-.hero-image {
-  width: 100%;
+.hero-content {
+  margin-top: auto;
+  margin-bottom: 2rem;
+  height: 15rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #c7f04c;
 }
 .hero-title {
   font-size: 40px;
@@ -28,16 +37,4 @@
   color: #003b63;
   font-size: 19px;
   text-decoration: none;
-}
-.hero-content {
-  margin-top: auto;
-  margin-bottom: 2rem;
-  height: 15rem;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  background-color: #c7f04c;
 }
