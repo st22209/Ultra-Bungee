@@ -1,11 +1,11 @@
 .footer {
-  background-color: #ed107f;
-  height: 7rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+    background-color: #ed107f;
+    height: 7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .footer-text {
-  text-align: center;
-  color: white;
+    text-align: center;
+    color: white;
 }

@@ -1,99 +1,99 @@
 .hero {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 48rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 48rem;
 }
 .hero-image {
-  width: 100%;
+    width: 100%;
 }
 .hero-title {
-  margin: 0;
-  font-size: 40px;
-  color: white;
+    margin: 0;
+    font-size: 40px;
+    color: white;
 }
 .hero-content {
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-left: 0.5rem;
-  margin-right: 0.5rem;
-  height: 5rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  background-color: #163a60;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #163a60;
 }
 article {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem;
 }
 article > div {
-  margin: 2rem;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  padding: 2rem;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  width: 60%;
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    width: 60%;
 }
 
 .jump-info h1 {
-  font-size: 5rem;
-  color: #163a60;
-  margin: 0.5rem;
+    font-size: 5rem;
+    color: #163a60;
+    margin: 0.5rem;
 }
 
 .jump-info h3 {
-  font-size: 2rem;
-  margin: 0.5rem;
+    font-size: 2rem;
+    margin: 0.5rem;
 }
 .general-info > div {
-  margin: 1rem;
+    margin: 1rem;
 }
 
 .general-info > div > h1,
 ul {
-  margin: 1rem;
+    margin: 1rem;
 }
 
 .info-data {
-  text-align: left;
+    text-align: left;
 }
 
 .more-info-but {
-  border: 2px solid #003b63;
-  display: inline;
-  padding: 1rem;
-  padding-left: 2.5rem;
-  padding-right: 2.5rem;
-  color: #003b63;
-  background-color: white;
-  font-size: 20px;
-  margin-top: 0.5rem;
-  text-decoration: none;
+    border: 2px solid #003b63;
+    display: inline;
+    padding: 1rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    color: #003b63;
+    background-color: white;
+    font-size: 20px;
+    margin-top: 0.5rem;
+    text-decoration: none;
 }
 
 .more-info-but:hover {
-  cursor: pointer;
+    cursor: pointer;
 }
 .small-gallery {
-  width: 80%;
+    width: 80%;
 }
 #small-gallery-images {
-  display: flex;
-  gap: 1rem;
+    display: flex;
+    gap: 1rem;
 }
 
 .small-gallery > * {
-  margin: 1rem;
+    margin: 1rem;
 }
